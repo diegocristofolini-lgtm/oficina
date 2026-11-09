@@ -1,0 +1,6 @@
+{
+  "name": "OficinaPro - Controle de Horas e Produtividade",
+  "description": "Sistema de gestão de horas orçadas vs executadas para oficinas mecânicas, banco de desempenho, alertas de tempo esgotado e relatórios de produtividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
